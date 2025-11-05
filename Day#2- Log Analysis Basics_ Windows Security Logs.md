@@ -3,15 +3,6 @@
 ## **Objective:**
 The objective of this lab is to introduce students to **Windows Security Logs** and help them understand how to analyze logs for security-related events. Students will learn how to explore and analyze various security logs such as login attempts, user account changes, and other critical system events that could indicate potential security threats.
 
-
-
----
-## **▶️Video Tutorial**
-
-[![▶️Watch the video](https://img.youtube.com/vi/ea7f_M2ExVE/maxresdefault.jpg)](https://youtu.be/ea7f_M2ExVE)
-
----
-
 ## **Lab Setup**
 ### **Requirements:**
 - **System:** Windows 10/11 or Windows Server 2019/2022
