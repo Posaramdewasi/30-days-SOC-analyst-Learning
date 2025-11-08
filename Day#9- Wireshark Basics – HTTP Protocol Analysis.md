@@ -5,17 +5,6 @@
 ## 🎯 **Objective**  
 The objective of this lab is to help students analyze **HTTP (Hypertext Transfer Protocol)** packets using **Wireshark**. Students will explore HTTP request/response headers, understand how web communication works, and learn how to detect common HTTP-based attacks or data leaks.
 
----
-
----
-
-## **▶️Video Tutorial**
-
-[![▶️Watch the video](https://img.youtube.com/vi/4i265xCxv-Q/maxresdefault.jpg)](https://youtu.be/4i265xCxv-Q)
----
-
-
-
 ## 🛠️ **Lab Setup**
 
 ### **System Requirements**
