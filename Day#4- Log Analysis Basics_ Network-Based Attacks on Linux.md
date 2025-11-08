@@ -5,13 +5,6 @@
 ## 🎯 **Objective**  
 The objective of this lab is to simulate a **network-based port scan attack** and demonstrate how to detect it using **ufw.log** logs on a Linux system. Students will learn how to launch the HTTP scan prob from Kali Linux(attacker) machine and detect these scan ataempt on Victim machine using UFW.
 
----
-
-## **▶️Video Tutorial**
-
-[![▶️Watch the video](https://img.youtube.com/vi/8A0vkpDPmxM/maxresdefault.jpg)](https://youtu.be/8A0vkpDPmxM)
----
-
 ## 🛠️ **Lab Setup**
 
 ### **System Requirements**
