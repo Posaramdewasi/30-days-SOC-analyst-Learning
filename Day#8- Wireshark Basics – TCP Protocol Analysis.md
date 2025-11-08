@@ -5,14 +5,6 @@
 ## 🎯 **Objective**  
 The objective of this lab is to introduce students to analyzing **TCP (Transmission Control Protocol)** traffic using **Wireshark**. Students will learn how TCP establishes connections, the 3-way handshake process, and how to interpret common TCP fields and flags.
 
----
-
----
-
-## **▶️Video Tutorial**
-
-[![▶️Watch the video](https://img.youtube.com/vi/DSp2J4QdpTE/maxresdefault.jpg)](https://youtu.be/DSp2J4QdpTE)
----
 
 ## 🛠️ **Lab Setup**
 
