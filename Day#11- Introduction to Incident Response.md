@@ -3,14 +3,6 @@
 ## **Objective:**
 The objective of this lab is to introduce students to the **core concepts of incident response**, familiarize them with the **incident response lifecycle**, and help them understand how basic threats on Windows systems are detected, analyzed, and responded to by SOC Analysts.
 
----
-
-## **▶️Video Tutorial**
-
-[![▶️Watch the video](https://img.youtube.com/vi/aFku6ochX68/maxresdefault.jpg)](https://youtu.be/aFku6ochX68)
----
-
-
 
 ## **What is Incident Response?**
 
